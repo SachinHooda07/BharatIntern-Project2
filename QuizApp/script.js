@@ -21,9 +21,9 @@ const quiz = [
   },
   {
     question:
-      "Q.2 What will be the output of the following code? console.log(typeof null);",
-    choices: ["object", "null", "undefined", "number"],
-    answer: "object",
+      "Q.2 The full form of CSS is: ",
+    choices: ["Color and Style Sheets", "Colored Special Sheet", "Cascading Style Sheets", "number"],
+    answer: "Cascading Style Sheets",
   },
   {
     question: "Q.3 What is the use of the <noscript> tag in Javascript?",
@@ -45,6 +45,12 @@ const quiz = [
     question: "Q.5 How do you find the length of an array in JavaScript?",
     choices: ["array.size()", "array.length", "array.count()", "length(array)"],
     answer: "array.length",
+  },
+  {
+    question:
+      "Q.6 How can we write comments in CSS? ",
+    choices: ["//", "/* */", "#", "All of the above"],
+    answer: "/* */",
   },
 ];
 
